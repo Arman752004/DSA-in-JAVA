@@ -6,12 +6,8 @@ public class FindUnique {
         System.out.println(ans(arr));
     }
 
-    private static int ans(int[] arr){
+    private static int ans(int){
         int unique = 0;
-        for(int n : arr){
-            unique ^= n;
-        }
-
-        return unique;
+        
     }
 }
