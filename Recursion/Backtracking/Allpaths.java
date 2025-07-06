@@ -50,7 +50,7 @@ public class Allpaths {
 
     static void allPathPrint(String p ,boolean[][] maze,int r, int c,int[][] path,int step){      //printing each and every path
         if(r == maze.length - 1 && c == maze[0].length - 1){
-            path[r][c] = step;
+            path[r][c] = step; 
             for(int[] arr :path){
                 System.out.println(Arrays.toString(arr));
             }
