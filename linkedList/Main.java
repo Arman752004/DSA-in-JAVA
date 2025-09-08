@@ -29,12 +29,12 @@ public class Main {
 
 
         //CLL
-        CLL list = new CLL();
-        list.insert(23);
-        list.insert(3);
-        list.insert(19);
-        list.insert(75);
-        list.delete(75);
-        list.display();
+        // CLL list = new CLL();
+        // list.insert(23);
+        // list.insert(3);
+        // list.insert(19);
+        // list.insert(75);
+        // list.delete(75);
+        // list.display();
     }
 }
