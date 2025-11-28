@@ -1,4 +1,3 @@
-
 import java.util.Scanner;;
 public class SwitchStatements_And_NestedLoops {
     public static void main(String[] args) {
